@@ -1,83 +1,129 @@
-👋 Hey, I'm Sakshi
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2600&color=00F7FF&center=true&vCenter=true&width=800&lines=Machine+Learning+Engineer;Building+AI+Systems;Multi-Agent+AI+Developer;From+Data+to+Deployment" /> </p>
-🧠 About Me
+# 👋 Hey, I'm Sakshi  
 
-🎓 ENTC @ Cummins College of Engineering, Pune
-🤖 Machine Learning Engineer focused on real-world AI systems
-⚙️ Building end-to-end solutions (data → model → backend → deployment)
-🚀 Exploring Generative AI, Multi-Agent Systems & scalable ML architectures
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&color=00F7FF&center=true&vCenter=true&width=800&lines=Machine+Learning+Engineer;Building+AI+Systems;Multi-Agent+AI+Developer;From+Data+to+Deployment" />
+</p>
 
-I don’t just train models — I build systems where AI actively drives decisions and outcomes.
+---
 
-🚀 Featured Work
-🔹 AI Product Failure Analyzer (Multi-Agent System) 🥈
-Designed a multi-agent AI system to simulate real production failures
-Real-time metrics & logs streaming using WebSockets
-Generated root cause, severity & recommendations using LLMs
-Mapped failures to business impact (downtime, revenue loss)
+## 🧠 About Me  
 
-🔗 View Project
+🎓 ENTC @ Cummins College of Engineering, Pune  
+🤖 Machine Learning Engineer focused on **real-world AI systems**  
+⚙️ Building **end-to-end solutions** (data → model → backend → deployment)  
+🚀 Exploring **Generative AI, Multi-Agent Systems & scalable ML architectures**  
 
-🔹 SwarmForge – Multi-Agent AI Software Factory
-Built a system where multiple AI agents collaborate to build software
-Implemented parallel execution, auto-merging & conflict resolution
-Real-time monitoring + output preview
+> I’m interested in systems where AI doesn’t just assist — it **owns decisions, reacts in real-time, and drives outcomes**.
 
-🔗 View Project
+---
 
-🔹 Kidney Disease Detection (DenseNet + Grad-CAM)
-Trained models on 12,446 CT images
-Improved accuracy from 89% → 93%
-Applied Grad-CAM for medical interpretability
+## 🚀 Featured Projects  
 
-🔗 View Project
+### 🔹 AI Product Failure Analyzer (Multi-Agent System) 🥈  
 
-🔹 SmartCart Segmentation System
-Customer segmentation using machine learning techniques
-Enabled better targeting and analysis of user behavior
+- Designed a **multi-agent AI system** to simulate real production failures  
+- Real-time metrics & logs streaming using **WebSockets**  
+- Generated **root cause, severity & recommendations using LLMs**  
+- Mapped failures to **business impact (downtime, revenue loss)**  
 
-🔗 View Project
+[View Project](https://github.com/Sakshichikhale1/Multiagent-Product-Failure-Analyzer)
 
-🔹 Restaurant Queue Management System
-Built using Flask + SQLite for real-time operations
-Implemented wait-time prediction & smart table allocation
+---
 
-🔗 View Project
+### 🔹 SwarmForge – Multi-Agent AI Software Factory  
 
-💼 Experience
-📊 Data Analytics Intern
-Worked with Pandas, NumPy, Scikit-learn for data processing
-Performed EDA, preprocessing & feature engineering
-Built ML models for predictive analysis
-☁️ Microsoft Cloud Intern
-Hands-on with Azure (compute, storage, networking, security)
-Deployed cloud-based applications
-Learned scalable architecture fundamentals
-🛠️ Tech Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,java,cpp,tensorflow,pytorch,flask,docker,git,mysql" /> </p>
+- Built a system where **multiple AI agents collaboratively build software**  
+- Implemented **parallel execution, conflict resolution & auto-merging**  
+- Real-time monitoring + output preview  
 
-AI/ML: TensorFlow • PyTorch • OpenCV • NLP • Generative AI • Scikit-learn
-Data: Pandas • NumPy • EDA • Feature Engineering
-Tools: Git • Docker • Power BI • Tableau • VS Code
+[View Project](https://github.com/Sakshichikhale1/SwarmForge)
 
-🏆 Highlight
-🥈 CodeNova Innovation 2026 (BNY Mellon)
-Built a real-time AI-powered failure analysis system and secured a top position among competing teams
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Sakshichikhale1&show_icons=true&theme=tokyonight" height="160"/> <img src="https://streak-stats.demolab.com/?user=Sakshichikhale1&theme=tokyonight" height="160"/> </p>
-🌱 Currently Exploring
-Agentic AI Systems
-Generative AI Applications
-Scalable ML Pipelines
-📬 Connect
+---
 
-📧 chikhalesakshi510@gmail.com
+### 🔹 Kidney Disease Detection (DenseNet + Grad-CAM)  
 
-💻 GitHub
+- Trained models on **12,446 CT images**  
+- Improved accuracy from **89% → 93%**  
+- Applied Grad-CAM for **interpretable medical AI**  
 
-🔗 LinkedIn
+[View Project](https://github.com/Sakshichikhale1/MultiClass-Kidney-Detection)
 
-⚡ Perspective
+---
 
-Good models predict.
-Great systems deliver measurable impact.
+### 🔹 SmartCart Segmentation System  
+
+- Built ML-based **customer segmentation system**  
+- Enabled better targeting and behavioral insights  
+
+[View Project](https://github.com/Sakshichikhale1/SmartCart-Segmentation-System)
+
+---
+
+### 🔹 Restaurant Queue Management System  
+
+- Built using **Flask + SQLite** for real-time operations  
+- Implemented **wait-time prediction & smart allocation logic**  
+
+[View Project](https://github.com/Sakshichikhale1/restaurant-queue-system)
+
+---
+
+### 🔹 Smart Stock Keeper (Inventory Management System)  
+
+- Developed an inventory management solution  
+- Managed product tracking and stock updates  
+
+[View Project](https://github.com/Sakshichikhale1/smart-stock-keeper)
+
+---
+
+## 🔗 All Repositories  
+
+👉 https://github.com/Sakshichikhale1  
+
+---
+
+## 🛠️ Tech Stack  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,tensorflow,pytorch,flask,git,mysql" />
+</p>
+
+### 🤖 AI / ML  
+TensorFlow • PyTorch • OpenCV • NLP • Generative AI • Scikit-learn  
+
+### 📊 Data  
+Pandas • NumPy • EDA • Feature Engineering  
+
+### 🧰 Tools  
+Git • Power BI • Tableau • VS Code  
+
+---
+
+## 🏆 Highlight  
+
+🥈 **CodeNova Innovation 2026 (BNY Mellon)**  
+Built a real-time AI system that delivers **instant root cause + action recommendations**
+
+---
+
+## 🌱 Currently Exploring  
+
+- Agentic AI Systems  
+- Generative AI Applications  
+- Scalable ML Pipelines  
+
+---
+
+## 📬 Connect  
+
+📧 chikhalesakshi510@gmail.com  
+💻 [GitHub](https://github.com/Sakshichikhale1)  
+🔗 [LinkedIn](https://www.linkedin.com/in/sakshi-chikhale)  
+
+---
+
+## ⚡ Perspective  
+
+> Models are easy.  
+> Building systems that **survive real-world complexity** is real engineering.
