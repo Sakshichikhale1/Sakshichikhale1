@@ -42,13 +42,12 @@
 
 ---
 
-### 🔹 InvenPro – AI-Powered Smart Inventory Management System  
+### 🔹 InvenPro – AI-Powered Inventory Management System  
 
-- Engineered an intelligent inventory platform integrating Computer Vision, NLP, LLMs, and Machine Learning for automated stock management  
-- Built real-time barcode scanning and product recognition pipelines using OpenCV and ZXing for seamless inventory tracking  
-- Developed an AI-powered inventory assistant using Groq Llama models capable of conversational stock queries and automated inventory actions  
-- Implemented ML-based demand forecasting and smart reorder recommendation systems to reduce stockouts and optimize inventory planning  
-- Designed a scalable FastAPI + React architecture with real-time dashboards, analytics, and predictive inventory insights  
+- Built an intelligent inventory platform using Computer Vision, NLP, and Machine Learning  
+- Developed real-time barcode scanning and AI-based stock management features  
+- Integrated Llama-powered chatbot for conversational inventory operations  
+- Implemented demand forecasting and smart reorder recommendation systems  
 
 [View Project](https://github.com/Sakshichikhale1/InvenPro)
 
