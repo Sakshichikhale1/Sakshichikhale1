@@ -73,15 +73,6 @@
 
 ---
 
-### 🔹 SmartCart Segmentation System  
-
-- Built ML-based **customer segmentation system**  
-- Enabled better targeting and behavioral insights  
-
-[View Project](https://github.com/Sakshichikhale1/SmartCart-Segmentation-System)
-
----
-
 ### 🔹 Restaurant Queue Management System  
 
 - Built using **Flask + SQLite** for real-time operations  
