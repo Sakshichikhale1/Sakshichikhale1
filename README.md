@@ -19,6 +19,18 @@
 
 ## 🚀 Featured Projects  
 
+### 🔹 AutoLearn AI Studio – Multimodal AI Learning Ecosystem  
+
+- Engineered a production-grade multimodal AI platform transforming PDFs, handwritten notes, images, and voice into interactive learning experiences  
+- Integrated Llama 3.3, Vision AI, and Whisper to power intelligent summarization, reasoning, OCR, and conversational tutoring  
+- Built AI-generated study systems including adaptive quizzes, smart notes, flashcards, mind maps, and a Socratic AI Tutor  
+- Developed advanced features like Scan & Solve, AI Podcast Studio, Research Hub, and Virtual AI Professor for immersive learning workflows  
+- Designed scalable FastAPI + React architecture with real-time AI orchestration and multimodal processing pipelines  
+
+[View Project](https://github.com/Sakshichikhale1/AutoLearn-AI)
+
+---
+
 ### 🔹 AI Product Failure Analyzer (Multi-Agent System) 🥈  
 
 - Designed a **multi-agent AI system** to simulate real production failures  
@@ -27,6 +39,18 @@
 - Mapped failures to **business impact (downtime, revenue loss)**  
 
 [View Project](https://github.com/Sakshichikhale1/Multiagent-Product-Failure-Analyzer)
+
+---
+
+### 🔹 InvenPro – AI-Powered Smart Inventory Management System  
+
+- Engineered an intelligent inventory platform integrating Computer Vision, NLP, LLMs, and Machine Learning for automated stock management  
+- Built real-time barcode scanning and product recognition pipelines using OpenCV and ZXing for seamless inventory tracking  
+- Developed an AI-powered inventory assistant using Groq Llama models capable of conversational stock queries and automated inventory actions  
+- Implemented ML-based demand forecasting and smart reorder recommendation systems to reduce stockouts and optimize inventory planning  
+- Designed a scalable FastAPI + React architecture with real-time dashboards, analytics, and predictive inventory insights  
+
+[View Project](https://github.com/Sakshichikhale1/InvenPro)
 
 ---
 
@@ -65,15 +89,6 @@
 - Implemented **wait-time prediction & smart allocation logic**  
 
 [View Project](https://github.com/Sakshichikhale1/restaurant-queue-system)
-
----
-
-### 🔹 Smart Stock Keeper (Inventory Management System)  
-
-- Developed an inventory management solution  
-- Managed product tracking and stock updates  
-
-[View Project](https://github.com/Sakshichikhale1/smart-stock-keeper)
 
 ---
 
