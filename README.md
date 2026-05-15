@@ -13,7 +13,7 @@
 ⚙️ Building **end-to-end solutions** (data → model → backend → deployment)  
 🚀 Exploring **Generative AI, Multi-Agent Systems & scalable ML architectures**  
 
-> I’m interested in systems where AI doesn’t just assist — it **owns decisions, reacts in real-time, and drives outcomes**.
+> I’m interested in systems where AI doesn’t just assist , it **owns decisions, reacts in real-time, and drives outcomes**.
 
 ---
 
