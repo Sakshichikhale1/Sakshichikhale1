@@ -19,18 +19,6 @@
 
 ## 🚀 Featured Projects  
 
-### 🔹 AutoLearn AI Studio – Multimodal AI Learning Ecosystem  
-
-- Engineered a production-grade multimodal AI platform transforming PDFs, handwritten notes, images, and voice into interactive learning experiences  
-- Integrated Llama 3.3, Vision AI, and Whisper to power intelligent summarization, reasoning, OCR, and conversational tutoring  
-- Built AI-generated study systems including adaptive quizzes, smart notes, flashcards, mind maps, and a Socratic AI Tutor  
-- Developed advanced features like Scan & Solve, AI Podcast Studio, Research Hub, and Virtual AI Professor for immersive learning workflows  
-- Designed scalable FastAPI + React architecture with real-time AI orchestration and multimodal processing pipelines  
-
-[View Project](https://github.com/Sakshichikhale1/AutoLearn-AI)
-
----
-
 ### 🔹 AI Product Failure Analyzer (Multi-Agent System) 🥈  
 
 - Designed a **multi-agent AI system** to simulate real production failures  
